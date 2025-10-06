@@ -10,8 +10,6 @@
 🎧 Music producer | 🧠 Exploring AI for creative expression
 
 - 🎵 I love combining **data science** and **sound design**
-- 💬 Ask me about **music production**, **audio ML**, or **R data analysis**
-
 ---
 ### 📊 Simone's GitHub Stats
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight)
