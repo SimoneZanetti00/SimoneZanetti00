@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Simone 😊
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-zanetti-b87b032a9/)
 
 </div>
 
@@ -28,7 +29,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight)
 
 ---
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-zanetti-b87b032a9/)
 
