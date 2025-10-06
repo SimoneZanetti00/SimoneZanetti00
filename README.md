@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Simone :)�
 
-<!--
-**SimoneZanetti00/SimoneZanetti00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Data Science @ University of Padua  
+💡 Passionate about AI, Generative Models, and Music Technology  
+🎧 Music producer | 🧠 Exploring AI for creative expression
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working on **AI systems for speech and music**
+- 🎵 I love combining **data science** and **sound design**
+- 💬 Ask me about **music production**, **audio ML**, or **R data analysis**
+
+---
+
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+---
+
+### 📊 Simone's GitHub Stats
+![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-zanetti-b87b032a9/)
+
