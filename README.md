@@ -9,24 +9,18 @@
 💡 Passionate about AI, Generative Models, and Music Technology  
 🎧 Music producer | 🧠 Exploring AI for creative expression
 
----
-
 - 🎵 I love combining **data science** and **sound design**
 - 💬 Ask me about **music production**, **audio ML**, or **R data analysis**
 
 ---
-
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
----
-
 ### 📊 Simone's GitHub Stats
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight)
 
 ---
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
