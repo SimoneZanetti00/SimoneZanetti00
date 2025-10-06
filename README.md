@@ -1,4 +1,8 @@
-# Hi there, I'm Simone :)�
+<div align="center">
+
+# Hi there, I'm Simone 😊
+
+</div>
 
 🎓 MSc Student in Data Science @ University of Padua  
 💡 Passionate about AI, Generative Models, and Music Technology  
