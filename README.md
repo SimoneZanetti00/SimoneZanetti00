@@ -10,7 +10,6 @@
 
 ---
 
-- 🌱 I’m currently working on **AI systems for speech and music**
 - 🎵 I love combining **data science** and **sound design**
 - 💬 Ask me about **music production**, **audio ML**, or **R data analysis**
 
