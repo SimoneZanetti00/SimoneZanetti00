@@ -6,10 +6,12 @@
 </div>
 
 🎓 MSc Student in Data Science @ University of Padua  
+🎓 BSc in Law and Technology
 💡 Passionate about AI, Generative Models, and Music Technology  
 🎧 Music producer | 🧠 Exploring AI for creative expression
 
 - 🎵 I love combining **data science** and **sound design**
+-  ⚖️ Interested in the intersection of **technology and law**, privacy, and AI ethics
 ---
 ### 📊 Simone's GitHub Stats
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight)
