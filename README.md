@@ -16,10 +16,10 @@
 ---
 ### 📊 Simone's GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimoneZanetti00&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneZanetti00&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
 </div>
-
 ---
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
