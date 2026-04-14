@@ -15,8 +15,10 @@
 
 ---
 ### 📊 Simone's GitHub Stats
-![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonezanetti&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonezanetti&layout=compact&theme=tokyonight" height="160"/>
+</div>
 
 ---
 ### 🧰 Tech Stack
