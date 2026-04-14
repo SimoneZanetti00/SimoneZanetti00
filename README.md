@@ -20,6 +20,10 @@
   <img src="https://streak-stats.demolab.com?user=SimoneZanetti00&theme=tokyonight&hide_border=true" height="155"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneZanetti00&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SimoneZanetti00&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimoneZanetti00&theme=tokyonight" height="155"/>
+</div>
 ---
 
 ### 🧰 Tech Stack
