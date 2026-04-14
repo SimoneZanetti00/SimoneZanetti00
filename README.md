@@ -18,7 +18,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SimoneZanetti00&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneZanetti00&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://languagestats.vercel.app/api?username=SimoneZanetti00&theme=tokyonight" height="155"/>
 </div>
 ---
 
